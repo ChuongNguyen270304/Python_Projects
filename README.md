@@ -1,3 +1,4 @@
+<img width="1201" height="829" alt="Screenshot 2026-07-06 174647" src="https://github.com/user-attachments/assets/f0a28576-a0f7-450e-b493-ef1ffdec2985" />
 # Python Projects 🐍
 
 > A collection of Python projects demonstrating my journey from fundamental programming concepts to object-oriented software development, data visualization, API integration, and web application development.
@@ -44,6 +45,10 @@ Technologies:
 - Python
 - Pygame
 
+<img width="1201" height="829" alt="Screenshot 2026-07-06 174647" src="https://github.com/user-attachments/assets/3aada960-67a7-49c1-9a11-29f9dc83bb33" />
+
+<img width="1202" height="825" alt="Screenshot 2026-07-06 174817" src="https://github.com/user-attachments/assets/94428dfb-1745-400a-8a1d-57489f2f80b6" />
+
 ---
 
 ## Project 2 – Data Visualization
@@ -60,6 +65,14 @@ Topics include:
 - Hacker News API
 - Scatter Plots
 - Line Charts
+
+<img width="1919" height="988" alt="Screenshot 2026-07-06 174941" src="https://github.com/user-attachments/assets/5913f226-b8a0-45b7-b8b7-bbb0646721a2" />
+
+<img width="796" height="619" alt="image" src="https://github.com/user-attachments/assets/431c7319-8309-43a0-966f-e553c3a41acd" />
+
+<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/86d64c03-4adc-4849-bb5d-121bf12d8104" />
+
+<img width="1278" height="840" alt="image" src="https://github.com/user-attachments/assets/008c89c0-0574-4a10-a3bb-de8c43a4f909" />
 
 ### Libraries
 
@@ -106,6 +119,8 @@ Skills demonstrated
 - Database Design
 - User Management
 - Web Development Fundamentals
+
+<img width="1919" height="981" alt="Screenshot 2026-07-06 180950" src="https://github.com/user-attachments/assets/46bcee7e-8a64-49e8-bdfc-9ad3cd2cbe72" />
 
 ---
 
