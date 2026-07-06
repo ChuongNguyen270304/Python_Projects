@@ -1,4 +1,3 @@
-<img width="1201" height="829" alt="Screenshot 2026-07-06 174647" src="https://github.com/user-attachments/assets/f0a28576-a0f7-450e-b493-ef1ffdec2985" />
 # Python Projects 🐍
 
 > A collection of Python projects demonstrating my journey from fundamental programming concepts to object-oriented software development, data visualization, API integration, and web application development.
