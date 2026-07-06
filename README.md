@@ -1,4 +1,4 @@
-# Python Projects
+# Python Projects 🐍
 
 > A collection of Python projects demonstrating my journey from fundamental programming concepts to object-oriented software development, data visualization, API integration, and web application development.
 
