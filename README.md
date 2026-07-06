@@ -1,144 +1,201 @@
-# Python Learning Projects 🐍
+# Python Projects
 
-A collection of Python projects and programming exercises created during my self-learning journey.
+> A collection of Python projects demonstrating my journey from fundamental programming concepts to object-oriented software development, data visualization, API integration, and web application development.
 
-This repository documents my progress from fundamental Python concepts to more practical applications. The goal is not only to learn Python syntax but also to develop structured problem-solving skills and software development best practices.
-
----
-
-## About this Repository
-
-This repository contains:
-
-- Python fundamentals
-- Object-Oriented Programming (OOP)
-- File handling
-- Exception handling
-- Data structures and algorithms
-- Small automation scripts
-- Console applications
-- Practice projects
-
-Every project was implemented as part of my continuous learning process and serves as a milestone in improving my programming skills.
+This repository showcases the practical projects I completed while learning Python. Rather than focusing solely on syntax, these projects emphasize problem-solving, software design, and the application of Python to real-world scenarios.
 
 ---
 
-## Technologies
+# Repository Overview
 
-- Python 3
-- Visual Studio Code
+The projects in this repository cover multiple areas of Python development:
+
+- Object-Oriented Programming
+- Game Development
+- Data Visualization
+- Working with APIs
+- Scientific Computing
+- Web Development
+- Database-driven Applications
+
+Each project helped strengthen my understanding of software engineering principles and Python best practices.
+
+---
+
+# Projects
+
+## Project 1 – Alien Invasion
+
+A complete arcade-style game developed using **Pygame**.
+
+### Skills demonstrated
+
+- Object-Oriented Programming
+- Classes and Objects
+- Event Handling
+- Game Loop
+- Collision Detection
+- Score System
+- Settings Management
+- Modular Project Structure
+
+Technologies:
+
+- Python
+- Pygame
+
+---
+
+## Project 2 – Data Visualization
+
+A collection of visualization projects using real datasets and public APIs.
+
+Topics include:
+
+- Random Walk Simulation
+- Dice Roll Simulation
+- Weather Data Analysis
+- Earthquake Visualization
+- GitHub Repository Analysis
+- Hacker News API
+- Scatter Plots
+- Line Charts
+
+### Libraries
+
+- Matplotlib
+- Plotly
+- Requests
+- JSON
+
+Skills demonstrated
+
+- Data Processing
+- API Integration
+- Data Visualization
+- Statistical Thinking
+- Reading CSV & JSON files
+
+---
+
+## Project 3 – Web Applications
+
+A web application developed with **Django**.
+
+Features include:
+
+- Models
+- Views
+- URL Routing
+- Forms
+- User Authentication
+- Database Migrations
+- CRUD Operations
+
+Technologies
+
+- Django
+- SQLite
+- HTML
+- Python
+
+Skills demonstrated
+
+- MVC (MTV) Architecture
+- Backend Development
+- Database Design
+- User Management
+- Web Development Fundamentals
+
+---
+
+# Technologies
+
+- Python
+- Pygame
+- Django
+- Matplotlib
+- Plotly
+- Requests
+- SQLite
 - Git
 - GitHub
 
 ---
 
-## Learning Topics
+# Skills Developed
 
-✔ Variables and Data Types
+✔ Object-Oriented Programming (OOP)
 
-✔ Conditional Statements
+✔ Modular Software Design
 
-✔ Loops
+✔ Data Visualization
 
-✔ Functions
+✔ API Integration
 
-✔ Lists, Tuples, Dictionaries, Sets
+✔ Working with JSON & CSV Data
 
-✔ String Manipulation
+✔ Backend Web Development
 
-✔ File I/O
+✔ Database Management
 
-✔ Exception Handling
+✔ Debugging & Testing
 
-✔ Modules
-
-✔ Object-Oriented Programming
-
-✔ Classes and Inheritance
-
-✔ Recursion
-
-✔ Algorithms
-
-✔ Basic Automation
+✔ Version Control with Git
 
 ---
 
-## Repository Structure
+# Purpose
 
-```
-Python-Lernprojekte/
-│
-├── Basics/
-├── OOP/
-├── File Handling/
-├── Mini Projects/
-├── Games/
-├── Automation/
-└── ...
-```
+This repository documents my continuous learning journey in Python and serves as a portfolio of practical programming projects.
+
+The projects were completed to strengthen my software development skills and prepare for future studies in **Business Information Systems (Wirtschaftsinformatik)** as well as working student opportunities in software engineering, IT consulting, and data-related roles.
 
 ---
 
-## Purpose
+# Currently Learning
 
-This repository is part of my preparation for studying **Business Information Systems (Wirtschaftsinformatik)** in Germany and for future internships and working student positions.
-
-By building these projects, I continuously improve my
-
-- Programming skills
-- Logical thinking
-- Clean code practices
-- Problem-solving abilities
-- Git & GitHub workflow
-
----
-
-## Current Learning Roadmap
-
-Currently I am expanding my knowledge in
+I am continuously expanding my technical skills in:
 
 - Advanced Python
-- Object-Oriented Design
 - SQL
+- Java
 - Power BI
-- Data Analysis
-- Data Engineering fundamentals
-- Automation
-- SAP-related technologies
+- Data Engineering
+- SAP Technologies
+- Software Architecture
 
 ---
 
-## Future Improvements
+# Future Improvements
 
-In the future I plan to add
+Planned additions include:
 
-- Unit Tests
+- Unit Testing (pytest)
 - Type Hints
-- Documentation
 - Logging
-- Design Patterns
-- REST API Projects
-- Database Projects (SQLite/PostgreSQL)
-- Pandas & NumPy
-- Power BI Automation
 - Docker
+- REST APIs (FastAPI / Flask)
+- PostgreSQL Integration
+- CI/CD with GitHub Actions
+- Design Patterns
+- Cloud Deployment
 
 ---
 
-## Motivation
+# About Me
 
-I strongly believe that programming is best learned by building projects.
+I'm passionate about learning new technologies and building practical software projects that improve my programming skills.
 
-This repository reflects my continuous learning journey and documents how I improve my technical skills over time.
+My goal is to combine business knowledge with software engineering through my studies in Business Information Systems and to continuously grow as a developer.
 
 ---
 
-## Contact
+# Contact
 
 **Chuong Nguyen**
 
 GitHub:
 https://github.com/ChuongNguyen270304
 
-Always happy to learn, improve, and collaborate.
+Thank you for visiting my repository!
